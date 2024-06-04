@@ -1,14 +1,14 @@
 # Students-Scores-Python
 
-Overview:
+##Overview:
 
 This project involves analyzing a dataset of student scores to understand how various demographic and socio-economic factors influence academic performance. The analysis was conducted using Python in Jupyter Notebook, leveraging libraries such as pandas, numpy, seaborn, and matplotlib for data manipulation and visualization.
 
-Purpose:
+##Purpose:
 
 The purpose of this project is to analyze a dataset containing student scores to uncover insights about the performance of students based on various demographic and socio-economic factors.
 
-Objectives:
+##Objectives:
 
 Examine the distribution of student scores in Math, Reading, and Writing.
 
@@ -22,11 +22,11 @@ Analyze the distribution and performance of students from different ethnic group
 
 Clean and preprocess the data to ensure accuracy and relevance.
 
-Dataset Description:
+##Dataset Description:
 
 The dataset contains information on students' scores in Math, Reading, and Writing along with demographic details such as gender, ethnic group, parental education level, lunch type, and test preparation status.
 
-Conclusion
+##Conclusion
 
 Summary of Key Findings:
 
