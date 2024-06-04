@@ -11,10 +11,15 @@ The purpose of this project is to analyze a dataset containing student scores to
 Objectives:
 
 Examine the distribution of student scores in Math, Reading, and Writing.
+
 Investigate the distribution of scores across different genders.
+
 Determine how parental education level affects student performance.
+
 Explore the relationship between parental marital status and student scores.
+
 Analyze the distribution and performance of students from different ethnic groups.
+
 Clean and preprocess the data to ensure accuracy and relevance.
 
 Dataset Description:
@@ -25,8 +30,22 @@ Conclusion
 
 Summary of Key Findings:
 
-Gender Distribution: The analysis revealed the number of male and female students and any differences in their performance.
-Parental Education and Scores: Higher parental education levels generally correlated with higher student scores in Math, Reading, and Writing.
-Parental Marital Status and Scores: Different marital statuses of parents showed variations in student scores.
-Score Distributions: Boxplots showed the range and outliers in scores for Math, Reading, and Writing.
-Ethnic Group Analysis: The dataset reflected a diverse student population, with visualizations showing the distribution of students across different ethnic groups.
+Gender Distribution: 
+
+The analysis revealed the number of male and female students and any differences in their performance.
+
+Parental Education and Scores:
+
+Higher parental education levels generally correlated with higher student scores in Math, Reading, and Writing.
+
+Parental Marital Status and Scores:
+
+Different marital statuses of parents showed variations in student scores.
+
+Score Distributions:
+
+Boxplots showed the range and outliers in scores for Math, Reading, and Writing.
+
+Ethnic Group Analysis:
+
+The dataset reflected a diverse student population, with visualizations showing the distribution of students across different ethnic groups.
